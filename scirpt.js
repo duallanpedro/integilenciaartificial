@@ -17,6 +17,7 @@ const perguntas = [
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
+        
     },
     {
         enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
